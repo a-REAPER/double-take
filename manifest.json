@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "double-take",
+  "description": "An extension that delays opening a website",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup/hello.html",
+    "default_icon": "images/hello_extensions.png"
+  }
+}
